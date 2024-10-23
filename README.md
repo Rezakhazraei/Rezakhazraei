@@ -7,9 +7,7 @@
 - 📫 How to reach me: abolfazlkhazraei01@gmail.com
 - ⚡ Fun fact: I am addicted to sports, I love playing Fifa and I'm sure you cannnot beat me !!
 
-- ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@abolfazlkh18469/30-nites-of-code)  
-  ![@abolfazlkh18469 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=abolfazlkh18469)
+
 
 <!---
 Rezakhazraei/Rezakhazraei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

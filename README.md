@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Developement and making websites that would help or entertain people.
 - 🌱 I’m currently learning ⚛️React and already familiar with JS, CSS and HTML but there is more to come cause I am passionate about learning new things.
 - 💞️ I’m looking to collaborate with different communities that involve creating something for the society! 🙋
-- 📫 How to reach me: abolfazl khazraei(LinkedIn)
+- 📫 How to reach me: abolfazlkhazraei01@gmail.com
 - ⚡ Fun fact: I am addicted to sports, I love playing Fifa and I'm sure you cannnot beat me !!
 
 - ## #30NitesOfCode:
